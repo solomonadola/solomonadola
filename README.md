@@ -2,7 +2,8 @@
 
 ![github_cover_banner](./banner.gif)
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px; " >
+    
     
     Welcome to my github! I'm a Computer Science and Engineering graduate deeply passionate about leveraging cutting-edge technology to drive innovation. With a strong background in full-stack MERN development, I specialize in building robust and scalable applications that seamlessly integrate front-end and back-end technologies. My expertise lies in crafting dynamic user interfaces using React, developing server-side logic with Node.js, and creating efficient APIs using Express.js.
     
@@ -24,6 +25,7 @@
 </div>
 <br>   
 <!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
