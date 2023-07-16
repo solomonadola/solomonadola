@@ -1,8 +1,8 @@
 <!-- Banner Image -->
-
 <p align="center">
-  <img src="./banner.gif" alt="Banner" height="200" style="width: 100%;">
+  <img src="./banner.gif" alt="Banner" width="100%">
 </p>
+
 
 # Solomon Adola
 
