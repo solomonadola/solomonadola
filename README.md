@@ -4,7 +4,7 @@
 </p>
 
 
-# Solomon Adola
+# Hey👋 
 
 Welcome to My GitHub! I'm a Computer Science and Engineering graduate deeply passionate about leveraging cutting-edge technology to drive innovation. With a strong background in full-stack MERN development, I specialize in building robust and scalable applications that seamlessly integrate front-end and back-end technologies. My expertise lies in crafting dynamic user interfaces using React, developing server-side logic with Node.js, and creating efficient APIs using Express.js.
 
@@ -79,6 +79,7 @@ My journey into the world of technology led me to discover my fascination with m
 
 
 <!-- Begin Footer -->
+## 🌐 Socials:
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/solomon-adola-03401122a/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="./icons8-linkedin-240.svg" alt="linkedin" width="40px"/>
