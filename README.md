@@ -1,3 +1,4 @@
+<div>
 <h1 style="color: #37ff70;"> 👨🏻‍💻 Solomon Adola </h1>
 
 ![github_cover_banner](./banner.gif)
@@ -130,3 +131,4 @@
 </div>
 <!-- End Footer -->
 
+</div>
