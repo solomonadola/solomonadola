@@ -1,9 +1,11 @@
 <div>
 <h1 style="color: #37ff70;"> 👨🏻‍💻 Solomon Adola </h1>
 
-![github_cover_banner](./banner.gif)
-
-<div align="center" style="max-width: 600px; text-align: justify;">
+<!-- Banner Image -->
+<p align="center">
+  <img src="./banner.gif" alt="Banner" width="100%">
+</p>
+<div align="center" style="max-width: auto; text-align: justify;">
   <p>
   
   Welcome to my GitHub! I'm a Computer Science and Engineering graduate deeply passionate about leveraging cutting-edge technology to drive innovation. With a strong background in full-stack MERN development, I specialize in building robust and scalable applications that seamlessly integrate front-end and back-end technologies. My expertise lies&nbsp;in crafting dynamic user interfaces using React, developing server-side logic with Node.js, and creating efficient APIs using Express.js.</p>
