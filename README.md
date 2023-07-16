@@ -6,14 +6,12 @@
   <img src="./banner.gif" alt="Banner" width="100%">
 </p>
 
-<div align="center" style="max-width: 800px; border:1px solid #37ff70; padding:20px; border-radius:15px; font-family: 'Courier New', monospace;">
-  <p style="text-align: justify;">
-    Welcome to my GitHub! I'm a Computer Science and Engineering graduate deeply passionate about leveraging cutting-edge technology to drive innovation. With a strong background in full-stack MERN development, I specialize in building robust and scalable applications that seamlessly integrate front-end and back-end technologies. My expertise lies&nbsp;in crafting dynamic user interfaces using React, developing server-side logic with Node.js, and creating efficient APIs using Express.js.
-  </p>
-  <p style="text-align: justify;">
-    My journey into the world of technology led me to discover my fascination with machine learning. I have immersed myself in Python and its powerful libraries to explore the boundless possibilities of AI. From building predictive models to developing sophisticated recommendation systems, I apply machine learning techniques to extract valuable insights and optimize user experiences.
-  </p>
-</div>
+## Welcome to My GitHub!
+
+I'm a Computer Science and Engineering graduate deeply passionate about leveraging cutting-edge technology to drive innovation. With a strong background in full-stack MERN development, I specialize in building robust and scalable applications that seamlessly integrate front-end and back-end technologies. My expertise lies in crafting dynamic user interfaces using React, developing server-side logic with Node.js, and creating efficient APIs using Express.js.
+
+My journey into the world of technology led me to discover my fascination with machine learning. I have immersed myself in Python and its powerful libraries to explore the boundless possibilities of AI. From building predictive models to developing sophisticated recommendation systems, I apply machine learning techniques to extract valuable insights and optimize user experiences.
+
 
 
 
