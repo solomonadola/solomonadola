@@ -8,7 +8,7 @@
 
 
 
-<div  style="max-width: 800px; display:flex;
+<div  style="border:1px solid #37ff70; padding:20px; border-radius:15px;max-width: 800px; display:flex;
 justify-content:center;flex-direction:column" >
   <p style="text-align: justify;">
   
@@ -19,10 +19,7 @@ justify-content:center;flex-direction:column" >
 
 <br>
 <br>
-<div align="center" >
 
-[Email Me](mailto:solomonadola84@gmail.com)
-</div>
 </p>    
 <br>
 <!-- Languages and Tools -->
