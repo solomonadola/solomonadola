@@ -1,32 +1,21 @@
-<div>
-<h1 style="color: #37ff70;"> 👨🏻‍💻 Solomon Adola </h1>
-
 <!-- Banner Image -->
 <p align="center">
   <img src="./banner.gif" alt="Banner" width="100%">
 </p>
 
-## Welcome to My GitHub!
+# Solomon Adola
 
-I'm a Computer Science and Engineering graduate deeply passionate about leveraging cutting-edge technology to drive innovation. With a strong background in full-stack MERN development, I specialize in building robust and scalable applications that seamlessly integrate front-end and back-end technologies. My expertise lies in crafting dynamic user interfaces using React, developing server-side logic with Node.js, and creating efficient APIs using Express.js.
+Welcome to My GitHub! I'm a Computer Science and Engineering graduate deeply passionate about leveraging cutting-edge technology to drive innovation. With a strong background in full-stack MERN development, I specialize in building robust and scalable applications that seamlessly integrate front-end and back-end technologies. My expertise lies in crafting dynamic user interfaces using React, developing server-side logic with Node.js, and creating efficient APIs using Express.js.
 
 My journey into the world of technology led me to discover my fascination with machine learning. I have immersed myself in Python and its powerful libraries to explore the boundless possibilities of AI. From building predictive models to developing sophisticated recommendation systems, I apply machine learning techniques to extract valuable insights and optimize user experiences.
 
 
 
-
-
-<br>
-<br>
-
-</p>    
 <br>
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
+
 <br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
@@ -100,9 +89,8 @@ My journey into the world of technology led me to discover my fascination with m
 
 <!-- Statistics -->
 
-<h2 style="color: #37ff70">📊 Statistics</h2>
+<h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
 <!-- Begin Stats Cards -->
 <div class="stats" align="center">
@@ -133,4 +121,4 @@ My journey into the world of technology led me to discover my fascination with m
 </div>
 <!-- End Footer -->
 
-</div>
+
