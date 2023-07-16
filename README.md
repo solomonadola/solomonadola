@@ -2,11 +2,11 @@
 
 ![github_cover_banner](./banner.gif)
 
-<div align="center" style="max-width: 800px; text-align: justify;">
+<div align="center" style="max-width: 600px; text-align: justify;">
   <p>
   
   Welcome to my GitHub! I'm a Computer Science and Engineering graduate deeply passionate about leveraging cutting-edge technology to drive innovation. With a strong background in full-stack MERN development, I specialize in building robust and scalable applications that seamlessly integrate front-end and back-end technologies. My expertise lies&nbsp;in crafting dynamic user interfaces using React, developing server-side logic with Node.js, and creating efficient APIs using Express.js.</p>
-  
+
   <p>My journey into the world of technology led me to discover my fascination with machine learning. I have immersed myself in Python and its powerful libraries to explore the boundless possibilities of AI. From building predictive models to developing sophisticated recommendation systems, I apply machine learning techniques to extract valuable insights and optimize user experiences.</p>
 </div>
 
