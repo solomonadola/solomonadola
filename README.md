@@ -15,7 +15,7 @@ My journey into the world of technology led me to discover my fascination with m
 <br>
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2 style="color: #44AEFB">⚙️ Tech stacks</h2>
 
 <br>   
 <!-- Icons Resources -->
