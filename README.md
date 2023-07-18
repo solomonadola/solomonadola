@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<!--<p align="center">
+<p align="center">
   <img src="./banner.gif" alt="Banner" width="100%">
-</p>-->
+</p>
 
 
 # Hey👋 
