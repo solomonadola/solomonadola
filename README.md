@@ -1,6 +1,6 @@
 <h1>👋 Hello there, I’m Solomon Adola</h1>
 <div>
-  <img src="blob:https://pinely.atlassian.net/0b938713-f8fd-4f37-a8ad-4f9989998b51" />
+  <img src="https://pinely.atlassian.net/0b938713-f8fd-4f37-a8ad-4f9989998b51" />
 </div>
 <div>
 <h3>About Me :</h3>
