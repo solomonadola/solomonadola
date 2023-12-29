@@ -8,7 +8,7 @@
 <li>👾 Part of Pinely International</li>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 <li>💻 MERN Stack Developer</li>
-<li>📫 How to reach me: konstantin.vasilev@pinely.eu</li>
+<li>📫 How to reach me: solomon.adola@pinely.eu</li>
 </ul>
 
 <div>
